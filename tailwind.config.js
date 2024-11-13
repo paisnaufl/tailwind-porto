@@ -8,7 +8,7 @@ module.exports = {
         inti: ["Neue Haas Grotesk Display Pro", "sans-serif"]
       },
       screens: {
-        "xs": "480px",
+        "xs": "425px",
       },
       colors: {
         "primary": "#003B6D",
